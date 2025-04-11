@@ -1,0 +1,9346 @@
+/* Edit Company Profile UI */
+
+position: relative;
+width: 1440px;
+height: 1284px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 3480 */
+
+position: absolute;
+width: 528px;
+height: 528px;
+left: -166px;
+top: 4720px;
+
+background: rgba(255, 166, 58, 0.28);
+filter: blur(50px);
+
+
+/* Group */
+
+position: absolute;
+width: 1484px;
+left: 0px;
+top: 1.01%;
+bottom: 51.7%;
+
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.76%;
+right: 9.03%;
+top: 1.01%;
+bottom: 53.02%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.68%;
+right: 8.46%;
+top: 1.86%;
+bottom: 53.3%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.59%;
+right: 7.89%;
+top: 2.69%;
+bottom: 53.57%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.51%;
+right: 7.29%;
+top: 3.52%;
+bottom: 53.85%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.43%;
+right: 6.72%;
+top: 4.3%;
+bottom: 54.14%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.34%;
+right: 6.15%;
+top: 5.06%;
+bottom: 54.42%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.26%;
+right: 5.58%;
+top: 5.85%;
+bottom: 54.69%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.17%;
+right: 4.99%;
+top: 6.61%;
+bottom: 54.97%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.09%;
+right: 4.44%;
+top: 7.35%;
+bottom: 55.25%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 1%;
+right: 3.86%;
+top: 8.07%;
+bottom: 55.53%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.92%;
+right: 3.28%;
+top: 8.8%;
+bottom: 55.81%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.84%;
+right: 2.69%;
+top: 9.49%;
+bottom: 56.09%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.76%;
+right: 2.11%;
+top: 10.2%;
+bottom: 56.37%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.67%;
+right: 1.56%;
+top: 10.91%;
+bottom: 56.65%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.58%;
+right: 0.99%;
+top: 11.38%;
+bottom: 56.67%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.5%;
+right: 0.4%;
+top: 11.51%;
+bottom: 55.96%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.41%;
+right: -0.18%;
+top: 11.66%;
+bottom: 55.25%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.33%;
+right: -0.75%;
+top: 11.76%;
+bottom: 54.55%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.25%;
+right: -1.32%;
+top: 11.88%;
+bottom: 53.85%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.17%;
+right: -1.9%;
+top: 12.01%;
+bottom: 53.13%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.08%;
+right: -2.48%;
+top: 12.16%;
+bottom: 52.42%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: -3.06%;
+top: 12.28%;
+bottom: 51.7%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.03%;
+right: -2.96%;
+top: 12.31%;
+bottom: 52.13%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.05%;
+right: -2.89%;
+top: 12.37%;
+bottom: 52.55%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.07%;
+right: -2.8%;
+top: 12.4%;
+bottom: 52.96%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.1%;
+right: -2.72%;
+top: 12.44%;
+bottom: 53.36%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.13%;
+right: -2.64%;
+top: 12.48%;
+bottom: 53.75%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.15%;
+right: -2.56%;
+top: 12.52%;
+bottom: 54.16%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.18%;
+right: -2.45%;
+top: 12.56%;
+bottom: 54.55%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.21%;
+right: -2.37%;
+top: 12.61%;
+bottom: 54.94%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.23%;
+right: -2.29%;
+top: 12.63%;
+bottom: 55.32%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.26%;
+right: -2.21%;
+top: 12.67%;
+bottom: 55.7%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.29%;
+right: -2.14%;
+top: 12.72%;
+bottom: 56.08%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.31%;
+right: -2.04%;
+top: 12.76%;
+bottom: 56.43%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.34%;
+right: -1.97%;
+top: 12.79%;
+bottom: 56.8%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.37%;
+right: -1.88%;
+top: 12.83%;
+bottom: 57.16%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.39%;
+right: -1.79%;
+top: 12.88%;
+bottom: 56.98%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.42%;
+right: -1.73%;
+top: 12.9%;
+bottom: 56.52%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.45%;
+right: -1.62%;
+top: 12.96%;
+bottom: 55.99%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.48%;
+right: -1.56%;
+top: 12.99%;
+bottom: 55.43%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.5%;
+right: -1.46%;
+top: 13.03%;
+bottom: 54.84%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.53%;
+right: -1.38%;
+top: 13.09%;
+bottom: 54.21%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.56%;
+right: -1.3%;
+top: 13.08%;
+bottom: 53.58%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Rectangle 3463715 */
+
+position: absolute;
+width: 1457px;
+height: 2340px;
+left: calc(50% - 1457px/2 + 2.5px);
+top: 957px;
+
+background: #0C0E0B;
+
+
+/* Ellipse 3473 */
+
+position: absolute;
+width: 557px;
+height: 557px;
+left: 1128px;
+top: 1068px;
+
+background: rgba(255, 166, 58, 0.25);
+filter: blur(57.65px);
+
+
+/* Group */
+
+position: absolute;
+width: 1484px;
+left: -38px;
+top: 100%;
+bottom: -47.29%;
+
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: -0.88%;
+right: 11.67%;
+top: 100%;
+bottom: -45.97%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -0.96%;
+right: 11.1%;
+top: 100.85%;
+bottom: -45.69%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -1.05%;
+right: 10.53%;
+top: 101.68%;
+bottom: -45.41%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -1.13%;
+right: 9.93%;
+top: 102.5%;
+bottom: -45.14%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -1.21%;
+right: 9.36%;
+top: 103.29%;
+bottom: -44.85%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -1.3%;
+right: 8.79%;
+top: 104.05%;
+bottom: -44.57%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -1.38%;
+right: 8.22%;
+top: 104.84%;
+bottom: -44.29%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -1.47%;
+right: 7.63%;
+top: 105.6%;
+bottom: -44.02%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -1.55%;
+right: 7.08%;
+top: 106.33%;
+bottom: -43.74%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -1.63%;
+right: 6.5%;
+top: 107.06%;
+bottom: -43.45%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -1.72%;
+right: 5.92%;
+top: 107.79%;
+bottom: -43.18%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -1.8%;
+right: 5.33%;
+top: 108.48%;
+bottom: -42.9%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -1.88%;
+right: 4.75%;
+top: 109.19%;
+bottom: -42.62%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -1.97%;
+right: 4.2%;
+top: 109.9%;
+bottom: -42.34%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.06%;
+right: 3.63%;
+top: 110.37%;
+bottom: -42.32%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.14%;
+right: 3.04%;
+top: 110.5%;
+bottom: -43.03%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.22%;
+right: 2.46%;
+top: 110.65%;
+bottom: -43.74%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.3%;
+right: 1.89%;
+top: 110.75%;
+bottom: -44.44%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.39%;
+right: 1.32%;
+top: 110.87%;
+bottom: -45.14%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.47%;
+right: 0.74%;
+top: 111%;
+bottom: -45.86%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.56%;
+right: 0.16%;
+top: 111.14%;
+bottom: -46.57%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.64%;
+right: -0.42%;
+top: 111.27%;
+bottom: -47.29%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.61%;
+right: -0.32%;
+top: 111.29%;
+bottom: -46.86%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.59%;
+right: -0.25%;
+top: 111.35%;
+bottom: -46.44%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.57%;
+right: -0.16%;
+top: 111.38%;
+bottom: -46.02%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.54%;
+right: -0.08%;
+top: 111.43%;
+bottom: -45.62%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.51%;
+right: 0%;
+top: 111.47%;
+bottom: -45.23%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.48%;
+right: 0.08%;
+top: 111.5%;
+bottom: -44.83%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.46%;
+right: 0.19%;
+top: 111.55%;
+bottom: -44.44%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.43%;
+right: 0.27%;
+top: 111.59%;
+bottom: -44.05%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.4%;
+right: 0.35%;
+top: 111.62%;
+bottom: -43.67%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.38%;
+right: 0.43%;
+top: 111.66%;
+bottom: -43.28%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.35%;
+right: 0.5%;
+top: 111.71%;
+bottom: -42.91%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.32%;
+right: 0.59%;
+top: 111.75%;
+bottom: -42.55%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.3%;
+right: 0.67%;
+top: 111.77%;
+bottom: -42.19%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.27%;
+right: 0.76%;
+top: 111.82%;
+bottom: -41.83%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.24%;
+right: 0.85%;
+top: 111.86%;
+bottom: -42%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.22%;
+right: 0.91%;
+top: 111.89%;
+bottom: -42.47%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.19%;
+right: 1.02%;
+top: 111.95%;
+bottom: -43%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.16%;
+right: 1.08%;
+top: 111.98%;
+bottom: -43.56%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.14%;
+right: 1.18%;
+top: 112.01%;
+bottom: -44.15%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.11%;
+right: 1.26%;
+top: 112.08%;
+bottom: -44.78%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.08%;
+right: 1.34%;
+top: 112.07%;
+bottom: -45.41%;
+
+border: 0.963887px solid #FFA63A;
+
+
+/* Ellipse 3472 */
+
+position: absolute;
+width: 603px;
+height: 603px;
+left: 1116px;
+top: 125px;
+
+background: rgba(255, 166, 58, 0.11);
+filter: blur(50px);
+
+
+/* Ellipse 3471 */
+
+position: absolute;
+width: 502px;
+height: 502px;
+left: -229px;
+top: 15px;
+
+background: rgba(255, 166, 58, 0.25);
+filter: blur(50px);
+
+
+/* Rectangle 3463710 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1240px;
+height: 63px;
+left: calc(50% - 1240px/2);
+top: 25px;
+
+background: rgba(255, 255, 255, 0.06);
+border: 1px solid #404040;
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 12px;
+
+
+/* Group 24 */
+
+position: absolute;
+width: 65.43px;
+height: 38.13px;
+left: calc(50% - 65.43px/2 - 552.28px);
+top: 37px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 9.38%;
+right: 89.08%;
+top: 3.94%;
+bottom: 94.16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 9.38%;
+right: 89.08%;
+top: 3.94%;
+bottom: 94.16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 9.38%;
+right: 89.08%;
+top: 3.94%;
+bottom: 94.16%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 89.08%;
+top: 3.94%;
+bottom: 94.16%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 11.01%;
+right: 87.9%;
+top: 4.48%;
+bottom: 94.15%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 11.01%;
+right: 87.9%;
+top: 4.48%;
+bottom: 94.15%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 11.01%;
+right: 87.9%;
+top: 4.48%;
+bottom: 94.15%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.01%;
+right: 87.9%;
+top: 4.48%;
+bottom: 94.15%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 12.17%;
+right: 87.27%;
+top: 3.94%;
+bottom: 94.16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.17%;
+right: 87.27%;
+top: 3.94%;
+bottom: 94.16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.17%;
+right: 87.27%;
+top: 3.94%;
+bottom: 94.16%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.17%;
+right: 87.27%;
+top: 3.94%;
+bottom: 94.16%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 12.83%;
+right: 86.08%;
+top: 4.48%;
+bottom: 94.15%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.83%;
+right: 86.08%;
+top: 4.48%;
+bottom: 94.15%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.83%;
+right: 86.08%;
+top: 4.48%;
+bottom: 94.15%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.83%;
+right: 86.08%;
+top: 4.48%;
+bottom: 94.15%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.33%;
+right: 87.47%;
+top: 3.17%;
+bottom: 96.59%;
+
+background: #000000;
+
+
+/* Clip path group */
+
+position: absolute;
+left: 12.11%;
+right: 87.23%;
+top: 2.88%;
+bottom: 96.48%;
+
+
+
+/* 501c1dfd3e */
+
+position: absolute;
+left: 12.11%;
+right: 87.23%;
+top: 2.88%;
+bottom: 96.48%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.11%;
+right: 87.23%;
+top: 2.88%;
+bottom: 96.48%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 12.11%;
+right: 87.25%;
+top: 2.88%;
+bottom: 96.48%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.11%;
+right: 87.25%;
+top: 2.88%;
+bottom: 96.48%;
+
+background: #000000;
+
+
+/* Clip path group */
+
+position: absolute;
+left: 11.93%;
+right: 87.06%;
+top: 3.09%;
+bottom: 96.02%;
+
+
+
+/* ae2d6c9624 */
+
+position: absolute;
+left: 11.93%;
+right: 87.06%;
+top: 3.09%;
+bottom: 96.02%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.93%;
+right: 87.06%;
+top: 3.09%;
+bottom: 96.02%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 11.93%;
+right: 87.07%;
+top: 3.09%;
+bottom: 96.02%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.93%;
+right: 87.07%;
+top: 3.09%;
+bottom: 96.02%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 9.92%;
+right: 89.57%;
+top: 2.97%;
+bottom: 96.16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 9.92%;
+right: 89.57%;
+top: 2.97%;
+bottom: 96.16%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 9.92%;
+right: 89.57%;
+top: 2.97%;
+bottom: 96.16%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.92%;
+right: 89.57%;
+top: 2.97%;
+bottom: 96.16%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 10.51%;
+right: 89.01%;
+top: 3.22%;
+bottom: 96.15%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 10.51%;
+right: 89.01%;
+top: 3.22%;
+bottom: 96.15%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 10.51%;
+right: 89.01%;
+top: 3.22%;
+bottom: 96.15%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.51%;
+right: 89.01%;
+top: 3.22%;
+bottom: 96.15%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 11.05%;
+right: 88.65%;
+top: 3.12%;
+bottom: 96.15%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 11.05%;
+right: 88.65%;
+top: 3.12%;
+bottom: 96.15%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 11.05%;
+right: 88.65%;
+top: 3.12%;
+bottom: 96.15%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.05%;
+right: 88.65%;
+top: 3.12%;
+bottom: 96.15%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 11.41%;
+right: 88.18%;
+top: 3.22%;
+bottom: 96.15%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 11.41%;
+right: 88.18%;
+top: 3.22%;
+bottom: 96.15%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 11.41%;
+right: 88.18%;
+top: 3.22%;
+bottom: 96.15%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.41%;
+right: 88.18%;
+top: 3.22%;
+bottom: 96.15%;
+
+background: #000000;
+
+
+/* Frame 1410085117 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 51px;
+
+position: absolute;
+width: 854px;
+height: 22.8px;
+left: 451px;
+top: 45px;
+
+
+
+/* Frame 1410085115 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 34px;
+
+width: 739px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* All Vendors */
+
+width: 79px;
+height: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Weddings */
+
+width: 71px;
+height: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Birthdays */
+
+width: 66px;
+height: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Baby Showers */
+
+width: 98px;
+height: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Corporate Events */
+
+width: 121px;
+height: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Become a Member */
+
+width: 134px;
+height: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Frame 1410085116 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+padding: 0px;
+gap: 16px;
+
+width: 64px;
+height: 22.8px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* heart */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 3px 2px;
+gap: 10px;
+
+width: 24px;
+height: 22.45px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 19.26px;
+height: 16.45px;
+
+border: 2px solid #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* heart */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 3px 2px;
+gap: 10px;
+
+width: 24px;
+height: 22.8px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 16.8px;
+height: 16.8px;
+
+border: 2px solid #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Star 22 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 1393px;
+top: 998px;
+
+background: rgba(255, 166, 58, 0.92);
+
+
+/* Star 26 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 1310px;
+top: 1839px;
+
+background: rgba(255, 166, 58, 0.92);
+
+
+/* Star 29 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 25px;
+top: 2592px;
+
+background: rgba(255, 166, 58, 0.92);
+
+
+/* Star 46 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 149px;
+top: 4195px;
+
+background: rgba(255, 166, 58, 0.92);
+
+
+/* Star 24 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 64px;
+top: 377px;
+
+background: rgba(255, 166, 58, 0.92);
+
+
+/* Star 32 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 107px;
+top: 3102px;
+
+background: rgba(255, 166, 58, 0.92);
+
+
+/* Star 23 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 215px;
+top: 1373px;
+
+background: rgba(255, 166, 58, 0.92);
+
+
+/* Star 18 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 814px;
+top: 140px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Star 25 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 115px;
+top: 884px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Star 16 */
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 1304px;
+top: 638px;
+
+background: rgba(255, 166, 58, 0.39);
+
+
+/* Star 19 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 949px;
+top: 768px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Star 27 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 1167px;
+top: 1431px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Star 31 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 1131px;
+top: 2886px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Star 28 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 132px;
+top: 1979px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Star 30 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 1335px;
+top: 2339px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Star 34 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 1310px;
+top: 4909px;
+
+background: rgba(255, 166, 58, 0.92);
+
+
+/* Star 35 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 25px;
+top: 2922px;
+
+background: rgba(255, 166, 58, 0.92);
+
+
+/* Star 44 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 188px;
+top: 3520px;
+
+background: rgba(255, 166, 58, 0.92);
+
+
+/* Star 45 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 1238px;
+top: 4116px;
+
+background: rgba(255, 166, 58, 0.92);
+
+
+/* Star 47 */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 254px;
+top: 4824px;
+
+background: rgba(255, 166, 58, 0.92);
+
+
+/* Star 39 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 940px;
+top: 2938px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Star 43 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 873px;
+top: 3467px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Ellipse 3468 */
+
+position: absolute;
+width: 528px;
+height: 528px;
+left: -135px;
+top: 2781px;
+
+background: rgba(255, 166, 58, 0.11);
+filter: blur(50px);
+
+
+/* Ellipse 3478 */
+
+position: absolute;
+width: 532px;
+height: 532px;
+left: -166px;
+top: 3754px;
+
+background: rgba(255, 166, 58, 0.16);
+filter: blur(50px);
+
+
+/* Group 22 */
+
+position: absolute;
+width: 29.71px;
+height: 57.01px;
+left: 144.56px;
+top: 3930.39px;
+
+transform: rotate(95.43deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 10.04%;
+right: 87.9%;
+top: 306.11%;
+bottom: -210.55%;
+
+border: 0.63956px solid rgba(255, 255, 255, 0.32);
+transform: rotate(95.43deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 8.29%;
+right: 91.14%;
+top: 306.9%;
+bottom: -209.34%;
+
+background: rgba(255, 255, 255, 0.32);
+transform: rotate(95.43deg);
+
+
+/* Group 1410084222 */
+
+position: absolute;
+width: 18.33px;
+height: 35.17px;
+left: 69.75px;
+top: 4309.33px;
+
+transform: rotate(95.43deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 4.84%;
+right: 93.88%;
+top: 335.62%;
+bottom: -238.36%;
+
+border: 0.63956px solid rgba(255, 255, 255, 0.32);
+transform: rotate(95.43deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 3.77%;
+right: 95.88%;
+top: 336.11%;
+bottom: -237.61%;
+
+background: rgba(255, 255, 255, 0.32);
+transform: rotate(95.43deg);
+
+
+/* Group 1410084321 */
+
+position: absolute;
+width: 1506px;
+height: 865px;
+left: 0px;
+bottom: -4438px;
+
+
+
+/* Connect With our beautiful community */
+
+position: absolute;
+width: 534px;
+height: 108px;
+left: calc(50% - 534px/2);
+top: 4857px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 54px;
+/* or 135% */
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Frame 1410085121 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1506px;
+height: 218px;
+left: 0px;
+top: 4993px;
+
+
+
+/* Group 1410084315 */
+
+width: 218px;
+height: 218px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 3463693 */
+
+position: absolute;
+width: 218px;
+height: 218px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.39), rgba(0, 0, 0, 0.39)), url(image);
+
+
+/* bi:instagram */
+
+position: absolute;
+width: 45.1px;
+height: 44.79px;
+left: calc(50% - 45.1px/2 - 645.05px);
+top: calc(50% - 44.79px/2 - 0.26px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFA63A;
+
+
+/* Rectangle 3463692 */
+
+width: 214px;
+height: 218px;
+
+background: url(image);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 3463693 */
+
+width: 214px;
+height: 218px;
+
+background: url(image);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 3463694 */
+
+width: 214px;
+height: 218px;
+
+background: url(image);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Rectangle 3463690 */
+
+width: 218px;
+height: 218px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Rectangle 3463691 */
+
+width: 214px;
+height: 218px;
+
+background: url(image);
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Rectangle 3463695 */
+
+width: 214px;
+height: 218px;
+
+background: url(image);
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Rectangle 3463726 */
+
+position: absolute;
+width: 1460px;
+height: 511px;
+left: 0px;
+top: 5211px;
+
+background: #0C0E0B;
+
+
+/* Group 1410084218 */
+
+position: absolute;
+width: 29.87px;
+height: 57.32px;
+left: 1199.18px;
+top: 5325.22px;
+
+transform: rotate(-90.35deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 83.28%;
+right: 14.65%;
+top: 414.74%;
+bottom: -319.2%;
+
+border: 0.63956px solid rgba(255, 255, 255, 0.32);
+transform: rotate(-90.35deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 84.95%;
+right: 14.48%;
+top: 413.74%;
+bottom: -316.19%;
+
+background: rgba(255, 255, 255, 0.32);
+transform: rotate(-90.35deg);
+
+
+/* Group 1410084221 */
+
+position: absolute;
+width: 42.84px;
+height: 61.42px;
+left: 939.25px;
+top: 5622px;
+
+transform: rotate(25.3deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 65.05%;
+right: 32.83%;
+top: 438.56%;
+bottom: -340.94%;
+
+background: #2B2626;
+border: 2.13187px solid rgba(255, 255, 255, 0.17);
+transform: rotate(25.3deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 66.28%;
+right: 32%;
+top: 438.41%;
+bottom: -340.68%;
+
+background: #2B2626;
+border: 2.13187px solid rgba(255, 255, 255, 0.17);
+transform: rotate(25.3deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 64.27%;
+right: 33.61%;
+top: 440.12%;
+bottom: -341.51%;
+
+background: #2B2626;
+border: 2.13187px solid rgba(255, 255, 255, 0.17);
+transform: rotate(25.3deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 64.56%;
+right: 33.76%;
+top: 440.81%;
+bottom: -342.6%;
+
+background: #2B2626;
+border: 2.13187px solid rgba(255, 255, 255, 0.17);
+transform: rotate(25.3deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 66.41%;
+right: 32.73%;
+top: 440.6%;
+bottom: -342.18%;
+
+background: #2B2626;
+border: 2.13187px solid rgba(255, 255, 255, 0.17);
+transform: rotate(25.3deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 65.52%;
+right: 33.43%;
+top: 440.18%;
+bottom: -340.88%;
+
+background: #2B2626;
+border: 2.13187px solid rgba(255, 255, 255, 0.17);
+transform: rotate(25.3deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 65.02%;
+right: 33.85%;
+top: 440.89%;
+bottom: -341.4%;
+
+background: #2B2626;
+border: 2.13187px solid rgba(255, 255, 255, 0.17);
+transform: rotate(25.3deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 65.2%;
+right: 34.06%;
+top: 441.53%;
+bottom: -342.26%;
+
+background: #2B2626;
+border: 2.13187px solid rgba(255, 255, 255, 0.17);
+transform: rotate(25.3deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 66.62%;
+right: 32.78%;
+top: 439.63%;
+bottom: -340.69%;
+
+background: #2B2626;
+border: 2.13187px solid rgba(255, 255, 255, 0.17);
+transform: rotate(25.3deg);
+
+
+/* Group 1410084317 */
+
+position: absolute;
+width: 837px;
+height: 143px;
+left: calc(50% - 837px/2 - 0.5px);
+top: 5248px;
+
+
+
+/* Group 1410084316 */
+
+position: absolute;
+width: 837px;
+height: 143px;
+left: 301px;
+top: 5248px;
+
+
+
+/* Rectangle 3463727 */
+
+position: absolute;
+width: 837px;
+height: 143px;
+left: 301px;
+top: 5391px;
+
+background: #FFA63A;
+border-radius: 17px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Mask group */
+
+position: absolute;
+width: 837px;
+height: 143px;
+left: calc(50% - 837px/2 - 0.5px);
+top: 5248px;
+
+
+
+/* Rectangle 3463728 */
+
+position: absolute;
+width: 837px;
+height: 143px;
+left: 301px;
+top: 5391px;
+
+background: #FFA63A;
+border-radius: 17px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 20.69%;
+right: 22.62%;
+top: 394.16%;
+bottom: -320.17%;
+
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.66%;
+right: 29.27%;
+top: 394.16%;
+bottom: -319.44%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.62%;
+right: 28.95%;
+top: 394.63%;
+bottom: -319.29%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.57%;
+right: 28.64%;
+top: 395.08%;
+bottom: -319.14%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.53%;
+right: 28.31%;
+top: 395.54%;
+bottom: -318.99%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.48%;
+right: 28%;
+top: 395.97%;
+bottom: -318.83%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.43%;
+right: 27.69%;
+top: 396.39%;
+bottom: -318.68%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.39%;
+right: 27.37%;
+top: 396.82%;
+bottom: -318.52%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.34%;
+right: 27.04%;
+top: 397.24%;
+bottom: -318.37%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.29%;
+right: 26.74%;
+top: 397.64%;
+bottom: -318.22%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.25%;
+right: 26.42%;
+top: 398.04%;
+bottom: -318.06%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.2%;
+right: 26.1%;
+top: 398.44%;
+bottom: -317.91%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.15%;
+right: 25.78%;
+top: 398.82%;
+bottom: -317.76%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.11%;
+right: 25.46%;
+top: 399.21%;
+bottom: -317.6%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.06%;
+right: 25.16%;
+top: 399.6%;
+bottom: -317.45%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.01%;
+right: 24.84%;
+top: 399.86%;
+bottom: -317.44%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.97%;
+right: 24.52%;
+top: 399.93%;
+bottom: -317.83%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.92%;
+right: 24.2%;
+top: 400.02%;
+bottom: -318.22%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.88%;
+right: 23.89%;
+top: 400.07%;
+bottom: -318.6%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 23.58%;
+top: 400.14%;
+bottom: -318.99%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.79%;
+right: 23.26%;
+top: 400.21%;
+bottom: -319.39%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.74%;
+right: 22.94%;
+top: 400.29%;
+bottom: -319.77%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.69%;
+right: 22.62%;
+top: 400.36%;
+bottom: -320.17%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.71%;
+right: 22.67%;
+top: 400.37%;
+bottom: -319.93%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.72%;
+right: 22.71%;
+top: 400.4%;
+bottom: -319.7%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.73%;
+right: 22.76%;
+top: 400.42%;
+bottom: -319.48%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.75%;
+right: 22.8%;
+top: 400.45%;
+bottom: -319.25%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.76%;
+right: 22.85%;
+top: 400.47%;
+bottom: -319.04%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.78%;
+right: 22.89%;
+top: 400.49%;
+bottom: -318.82%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.79%;
+right: 22.95%;
+top: 400.51%;
+bottom: -318.6%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.81%;
+right: 22.99%;
+top: 400.54%;
+bottom: -318.39%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.82%;
+right: 23.04%;
+top: 400.55%;
+bottom: -318.18%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.84%;
+right: 23.09%;
+top: 400.57%;
+bottom: -317.97%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.85%;
+right: 23.12%;
+top: 400.6%;
+bottom: -317.76%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.87%;
+right: 23.17%;
+top: 400.62%;
+bottom: -317.57%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.88%;
+right: 23.22%;
+top: 400.64%;
+bottom: -317.36%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.9%;
+right: 23.27%;
+top: 400.66%;
+bottom: -317.17%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.91%;
+right: 23.31%;
+top: 400.69%;
+bottom: -317.26%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.93%;
+right: 23.35%;
+top: 400.7%;
+bottom: -317.52%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.94%;
+right: 23.41%;
+top: 400.73%;
+bottom: -317.81%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.96%;
+right: 23.44%;
+top: 400.75%;
+bottom: -318.12%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.97%;
+right: 23.5%;
+top: 400.77%;
+bottom: -318.44%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.99%;
+right: 23.54%;
+top: 400.8%;
+bottom: -318.79%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21%;
+right: 23.59%;
+top: 400.8%;
+bottom: -319.14%;
+
+border: 0.530196px solid #FFFFFF;
+
+
+/* Group 17 */
+
+position: absolute;
+width: 93.81px;
+height: 120.86px;
+left: 1041.45px;
+top: 5381.32px;
+
+transform: rotate(-70.4deg);
+
+
+/* Ellipse 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+visibility: hidden;
+width: 25.58px;
+height: 25.58px;
+left: 572.61px;
+top: 5385.27px;
+
+border: 2.13187px solid #FFFFFF;
+transform: rotate(-70.4deg);
+
+
+/* Ellipse 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+visibility: hidden;
+width: 27.71px;
+height: 27.71px;
+left: 588.62px;
+top: 5327.61px;
+
+border: 2.13187px solid #FFFFFF;
+transform: rotate(-70.4deg);
+
+
+/* Layer_5 */
+
+position: absolute;
+left: 72.32%;
+right: 21.16%;
+top: 419.11%;
+bottom: -328.52%;
+
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.69%;
+right: 24.15%;
+top: 413.68%;
+bottom: -314.93%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 75.36%;
+right: 23.65%;
+top: 414.01%;
+bottom: -314.98%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.25%;
+right: 24.65%;
+top: 413.68%;
+bottom: -314.69%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.01%;
+right: 25.23%;
+top: 413.79%;
+bottom: -314.9%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.7%;
+right: 24.82%;
+top: 414.24%;
+bottom: -315.08%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 75.17%;
+right: 24.22%;
+top: 413.86%;
+bottom: -314.01%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.61%;
+right: 24.91%;
+top: 413.77%;
+bottom: -314.31%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.38%;
+right: 25.41%;
+top: 413.8%;
+bottom: -314.25%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 75.53%;
+right: 23.98%;
+top: 414.01%;
+bottom: -314.35%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Group 1410084217 */
+
+position: absolute;
+width: 22.98px;
+height: 32.95px;
+left: 1044.25px;
+top: 5382.32px;
+
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 72.87%;
+right: 25.99%;
+top: 419.25%;
+bottom: -320.52%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 72.73%;
+right: 26.35%;
+top: 418.52%;
+bottom: -319.74%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 73.65%;
+right: 25.22%;
+top: 419.63%;
+bottom: -320.38%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 73.96%;
+right: 25.13%;
+top: 419.43%;
+bottom: -320.39%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 73.76%;
+right: 25.78%;
+top: 418.33%;
+bottom: -319.18%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 73.61%;
+right: 25.82%;
+top: 418.88%;
+bottom: -319.25%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 73.97%;
+right: 25.42%;
+top: 419.15%;
+bottom: -319.42%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.27%;
+right: 25.33%;
+top: 419%;
+bottom: -319.4%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 73.29%;
+right: 26.39%;
+top: 418.26%;
+bottom: -318.83%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.3%;
+right: 24.06%;
+top: 418%;
+bottom: -325.7%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.49%;
+right: 23.5%;
+top: 416.47%;
+bottom: -320.08%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 74.07%;
+right: 25.52%;
+top: 417.27%;
+bottom: -319.05%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.8%;
+right: 25.07%;
+top: 417.33%;
+bottom: -318.25%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 75.16%;
+right: 23.84%;
+top: 418.44%;
+bottom: -319.14%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 75.16%;
+right: 23.84%;
+top: 418.44%;
+bottom: -319.14%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 75.57%;
+right: 23.89%;
+top: 418.08%;
+bottom: -318.44%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 76.84%;
+right: 22.19%;
+top: 417.28%;
+bottom: -318.02%;
+
+border: 1.06593px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 76.84%;
+right: 22.19%;
+top: 417.28%;
+bottom: -318.02%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 77.14%;
+right: 22.32%;
+top: 417.32%;
+bottom: -317.73%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 75.47%;
+right: 23.35%;
+top: 415.48%;
+bottom: -315.94%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 75.47%;
+right: 23.35%;
+top: 415.48%;
+bottom: -315.94%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 75.65%;
+right: 23.67%;
+top: 415.51%;
+bottom: -315.63%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 77.75%;
+right: 21.14%;
+top: 417.51%;
+bottom: -319.25%;
+
+border: 1.06593px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 77.75%;
+right: 21.14%;
+top: 417.51%;
+bottom: -319.25%;
+
+border: 1.06593px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 78.46%;
+right: 20.88%;
+top: 417.79%;
+bottom: -318.69%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 78.39%;
+right: 20.08%;
+top: 419.66%;
+bottom: -320.93%;
+
+border: 1.06593px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 78.39%;
+right: 20.08%;
+top: 419.66%;
+bottom: -320.93%;
+
+border: 1.06593px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 79.07%;
+right: 20.13%;
+top: 419.05%;
+bottom: -319.8%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 76.28%;
+right: 21.64%;
+top: 419.41%;
+bottom: -321.69%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 75.12%;
+right: 24.42%;
+top: 416.74%;
+bottom: -318.01%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 75.12%;
+right: 24.42%;
+top: 416.74%;
+bottom: -318.01%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 75.68%;
+right: 24.08%;
+top: 416.71%;
+bottom: -317.38%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 75.38%;
+right: 24.29%;
+top: 416.31%;
+bottom: -317.14%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 75.38%;
+right: 24.29%;
+top: 416.31%;
+bottom: -317.14%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 75.69%;
+right: 24.23%;
+top: 416.3%;
+bottom: -316.74%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 74.5%;
+right: 24.96%;
+top: 415.69%;
+bottom: -316.26%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 74.5%;
+right: 24.96%;
+top: 415.69%;
+bottom: -316.26%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.78%;
+right: 24.91%;
+top: 415.57%;
+bottom: -315.89%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 74.49%;
+right: 24.98%;
+top: 415.05%;
+bottom: -315.62%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 74.49%;
+right: 24.98%;
+top: 415.05%;
+bottom: -315.62%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.71%;
+right: 24.98%;
+top: 415.09%;
+bottom: -315.41%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 74.01%;
+right: 25.6%;
+top: 414.99%;
+bottom: -315.36%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 74.01%;
+right: 25.6%;
+top: 414.99%;
+bottom: -315.36%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 74.12%;
+right: 25.67%;
+top: 415.03%;
+bottom: -315.26%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 73.67%;
+right: 26.04%;
+top: 415.28%;
+bottom: -315.75%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 73.67%;
+right: 26.04%;
+top: 415.28%;
+bottom: -315.75%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 73.85%;
+right: 25.98%;
+top: 415.2%;
+bottom: -315.46%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 76.21%;
+right: 23.31%;
+top: 419.78%;
+bottom: -320.03%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 76.21%;
+right: 23.31%;
+top: 419.78%;
+bottom: -320.03%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 76.3%;
+right: 23.45%;
+top: 419.6%;
+bottom: -319.72%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 76.67%;
+right: 22.67%;
+top: 419.53%;
+bottom: -319.87%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 76.67%;
+right: 22.67%;
+top: 419.53%;
+bottom: -319.87%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 76.79%;
+right: 22.86%;
+top: 419.28%;
+bottom: -319.44%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 77.36%;
+right: 21.72%;
+top: 419.26%;
+bottom: -319.81%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 77.36%;
+right: 21.72%;
+top: 419.26%;
+bottom: -319.81%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 77.6%;
+right: 21.89%;
+top: 418.92%;
+bottom: -319.08%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 76.9%;
+right: 22.59%;
+top: 418.18%;
+bottom: -319.27%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 76.9%;
+right: 22.59%;
+top: 418.18%;
+bottom: -319.27%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 77.36%;
+right: 22.5%;
+top: 418.11%;
+bottom: -318.71%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 76.25%;
+right: 23.45%;
+top: 418.73%;
+bottom: -319.49%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 76.25%;
+right: 23.45%;
+top: 418.73%;
+bottom: -319.49%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 76.55%;
+right: 23.3%;
+top: 418.71%;
+bottom: -319.11%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 75.8%;
+right: 23.9%;
+top: 419.27%;
+bottom: -319.9%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 75.8%;
+right: 23.9%;
+top: 419.27%;
+bottom: -319.9%;
+
+border: 0.63956px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 76.06%;
+right: 23.78%;
+top: 419.23%;
+bottom: -319.58%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 73.91%;
+right: 25.77%;
+top: 415.02%;
+bottom: -316.84%;
+
+background: #2B2626;
+border: 2.13187px solid #DB8824;
+transform: rotate(-70.4deg);
+
+
+/* Group 1410084249 */
+
+position: absolute;
+width: 599px;
+height: 70px;
+left: 402px;
+top: 5285px;
+
+
+
+/* Ready to plan your unforgettable celebration? */
+
+position: absolute;
+width: 482.37px;
+height: 70px;
+left: calc(50% - 482.37px/2 - 76.81px);
+top: 5285px;
+
+font-family: 'Rozha One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 35px;
+/* or 109% */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+color: #000000;
+
+
+
+/* Group 1410084198 */
+
+position: absolute;
+width: 159px;
+height: 50px;
+left: calc(50% - 159px/2 + 201.5px);
+top: 5295px;
+
+
+
+/* Rectangle 3463712 */
+
+position: absolute;
+width: 159px;
+height: 50px;
+left: calc(50% - 159px/2 + 201.5px);
+top: 5295px;
+
+background: #FFFFFF;
+border-radius: 25px;
+
+
+/* Start Planning */
+
+position: absolute;
+width: 113px;
+height: 20px;
+left: 865px;
+top: 5310px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Frame 1410084519 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 117px;
+
+position: absolute;
+width: 1240px;
+height: 225px;
+left: calc(50% - 1240px/2);
+top: 5438px;
+
+
+
+/* Frame 427320752 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 300px;
+height: 225px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 24 */
+
+width: 94.38px;
+height: 55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 89.27%;
+top: 8.74%;
+bottom: 75.67%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 89.27%;
+top: 8.74%;
+bottom: 75.67%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 89.27%;
+top: 8.74%;
+bottom: 75.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 89.27%;
+top: 8.74%;
+bottom: 75.67%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 11.33%;
+right: 81.13%;
+top: 13.17%;
+bottom: 75.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 11.33%;
+right: 81.13%;
+top: 13.17%;
+bottom: 75.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 11.33%;
+right: 81.13%;
+top: 13.17%;
+bottom: 75.56%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.33%;
+right: 81.13%;
+top: 13.17%;
+bottom: 75.56%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 19.36%;
+right: 76.76%;
+top: 8.74%;
+bottom: 75.67%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 19.36%;
+right: 76.76%;
+top: 8.74%;
+bottom: 75.67%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 19.36%;
+right: 76.76%;
+top: 8.74%;
+bottom: 75.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 19.36%;
+right: 76.76%;
+top: 8.74%;
+bottom: 75.67%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 23.92%;
+right: 68.54%;
+top: 13.17%;
+bottom: 75.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 23.92%;
+right: 68.54%;
+top: 13.17%;
+bottom: 75.56%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 23.92%;
+right: 68.54%;
+top: 13.17%;
+bottom: 75.56%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 23.92%;
+right: 68.54%;
+top: 13.17%;
+bottom: 75.56%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.48%;
+right: 78.13%;
+top: 2.34%;
+bottom: 95.68%;
+
+background: #FFFFFF;
+
+
+/* Clip path group */
+
+position: absolute;
+left: 18.91%;
+right: 76.5%;
+top: 0%;
+bottom: 94.74%;
+
+
+
+/* 501c1dfd3e */
+
+position: absolute;
+left: 18.91%;
+right: 76.5%;
+top: 0%;
+bottom: 94.74%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 18.91%;
+right: 76.5%;
+top: 0%;
+bottom: 94.74%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 18.94%;
+right: 76.61%;
+top: 0%;
+bottom: 94.77%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 18.94%;
+right: 76.61%;
+top: 0%;
+bottom: 94.77%;
+
+background: #FFFFFF;
+
+
+/* Clip path group */
+
+position: absolute;
+left: 17.67%;
+right: 75.33%;
+top: 1.73%;
+bottom: 90.95%;
+
+
+
+/* ae2d6c9624 */
+
+position: absolute;
+left: 17.67%;
+right: 75.33%;
+top: 1.73%;
+bottom: 90.95%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 17.67%;
+right: 75.33%;
+top: 1.73%;
+bottom: 90.95%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 17.69%;
+right: 75.35%;
+top: 1.74%;
+bottom: 90.97%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 17.69%;
+right: 75.35%;
+top: 1.74%;
+bottom: 90.97%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 3.76%;
+right: 92.67%;
+top: 0.74%;
+bottom: 92.11%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 3.76%;
+right: 92.67%;
+top: 0.74%;
+bottom: 92.11%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 3.76%;
+right: 92.67%;
+top: 0.74%;
+bottom: 92.11%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.76%;
+right: 92.67%;
+top: 0.74%;
+bottom: 92.11%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 7.83%;
+right: 88.8%;
+top: 2.77%;
+bottom: 92.06%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 7.83%;
+right: 88.8%;
+top: 2.77%;
+bottom: 92.06%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 7.83%;
+right: 88.8%;
+top: 2.77%;
+bottom: 92.06%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 7.83%;
+right: 88.8%;
+top: 2.77%;
+bottom: 92.06%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 11.58%;
+right: 86.32%;
+top: 1.96%;
+bottom: 92.06%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 11.58%;
+right: 86.32%;
+top: 1.96%;
+bottom: 92.06%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 11.58%;
+right: 86.32%;
+top: 1.96%;
+bottom: 92.06%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 11.58%;
+right: 86.32%;
+top: 1.96%;
+bottom: 92.06%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 14.06%;
+right: 83.05%;
+top: 2.77%;
+bottom: 92.06%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 14.06%;
+right: 83.05%;
+top: 2.77%;
+bottom: 92.06%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 14.06%;
+right: 83.05%;
+top: 2.77%;
+bottom: 92.06%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.06%;
+right: 83.05%;
+top: 2.77%;
+bottom: 92.06%;
+
+background: #FFFFFF;
+
+
+/* LetsGala simplifies event planning by connecting you with top-tier venues, caterers, and entertainers. Discover, inquire, and book everything you need for unforgettable celebrations. */
+
+width: 300px;
+height: 100px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2007 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 172px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 85 */
+
+width: 34px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 166, 58, 0.21);
+border-radius: 60px;
+
+
+/* facebook logo */
+
+position: absolute;
+width: 7px;
+height: 14px;
+left: 13px;
+top: 10px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFA63A;
+
+
+/* Group 86 */
+
+width: 34px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 46px;
+top: 0px;
+
+background: rgba(255, 166, 58, 0.21);
+border-radius: 60px;
+
+
+/* Twitter logo */
+
+position: absolute;
+width: 18px;
+height: 14px;
+left: 54px;
+top: 10px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.39%;
+bottom: 0.07%;
+
+background: #FFA63A;
+
+
+/* Group 87 */
+
+width: 34px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 92px;
+top: 0px;
+
+background: rgba(255, 166, 58, 0.21);
+border-radius: 60px;
+
+
+/* linkedin logo */
+
+position: absolute;
+width: 16px;
+height: 15px;
+left: 101px;
+top: 9px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: -0.02%;
+top: 0%;
+bottom: 0%;
+
+background: #FFA63A;
+
+
+/* Group 88 */
+
+width: 34px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 138px;
+top: 0px;
+
+background: rgba(255, 166, 58, 0.21);
+border-radius: 60px;
+
+
+/* instagram logo */
+
+position: absolute;
+width: 16px;
+height: 18px;
+left: 147px;
+top: 8px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -0.02%;
+right: -0.03%;
+top: 6.22%;
+bottom: 6.25%;
+
+background: #FFA63A;
+
+
+/* Frame 427321780 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 46px;
+
+width: 394px;
+height: 174px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1410085062 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 71px;
+
+width: 394px;
+height: 174px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 2011 */
+
+width: 127px;
+height: 174px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Event */
+
+position: absolute;
+width: 57px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: -0.01em;
+text-transform: capitalize;
+
+color: #FFA63A;
+
+
+
+/* Group 1410082828 */
+
+position: absolute;
+width: 127px;
+height: 138px;
+left: 0px;
+top: 36px;
+
+
+
+/* Frame 1410084199 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 14px;
+
+position: absolute;
+width: 127px;
+height: 138px;
+left: 0px;
+top: 36px;
+
+
+
+/* Weddings */
+
+width: 81px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #9B9B9C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Birthdays */
+
+width: 75px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #9B9B9C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Baby Showers */
+
+width: 112px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #9B9B9C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Corporate Events */
+
+width: 138px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #9B9B9C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 2012 */
+
+width: 197px;
+height: 136px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Event Professionals */
+
+position: absolute;
+width: 197px;
+height: 30px;
+left: 198px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: -0.01em;
+text-transform: capitalize;
+
+color: #FFA63A;
+
+
+
+/* Group 1410082828 */
+
+position: absolute;
+width: 127px;
+height: 100px;
+left: 198px;
+top: 36px;
+
+
+
+/* Frame 1410084199 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 14px;
+
+position: absolute;
+width: 127px;
+height: 100px;
+left: 198px;
+top: 36px;
+
+
+
+/* Become a Member */
+
+width: 153px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #9B9B9C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Digital Events */
+
+width: 107px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #9B9B9C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Contact Pro Support */
+
+width: 163px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #9B9B9C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Group 2009 */
+
+width: 312px;
+height: 145px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Contact */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: 928px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+letter-spacing: -0.01em;
+text-transform: capitalize;
+
+color: #FFA63A;
+
+
+
+/* (406) 555-0120 */
+
+position: absolute;
+width: 123px;
+height: 24px;
+left: 960px;
+top: 42px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #9B9B9C;
+
+
+
+/* Hey@letsgala.com */
+
+position: absolute;
+width: 157px;
+height: 24px;
+left: 960px;
+top: 82px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #9B9B9C;
+
+
+
+/* 2972 Westheimer Rd. Santa , 85486 */
+
+position: absolute;
+width: 280px;
+height: 24px;
+left: 960px;
+top: 121px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #9B9B9C;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 952px;
+top: 39px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* ant-design:phone-filled */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 24px;
+top: 0px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 90.23%;
+right: -70.7%;
+top: 9.77%;
+bottom: 9.77%;
+
+background: #FFA63A;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Frame 2 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 928px;
+top: 88px;
+
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 928px;
+top: 117px;
+
+
+
+/* fa6-solid:location-dot */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 12.5%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.26%;
+
+background: #FFA63A;
+
+
+/* dashicons:email */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 928px;
+top: 78px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.94%;
+right: 5.01%;
+top: 20%;
+bottom: 20%;
+
+background: #FFA63A;
+
+
+/* Frame 1410085060 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 744.52px;
+height: 60.27px;
+left: calc(50% - 744.52px/2 + 0.26px);
+top: 1019px;
+
+
+
+/* Group 1410084209 */
+
+width: 147.51px;
+height: 60.27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 3463723 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 147.51px;
+height: 60.27px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 166, 58, 0.14);
+border: 1.5861px solid #FFA63A;
+backdrop-filter: blur(3.17221px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 12.6888px;
+
+
+/* Overview */
+
+position: absolute;
+width: 93px;
+height: 14px;
+left: calc(50% - 93px/2 - 298.76px);
+top: 22.21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 0px;
+/* or 0% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #FFA63A;
+
+
+
+/* Group 1410084210 */
+
+width: 147.51px;
+height: 60.27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 3463723 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 147.51px;
+height: 60.27px;
+left: 165.51px;
+top: 0px;
+
+background: rgba(217, 217, 217, 0.09);
+border: 1.5861px solid #FFFFFF;
+backdrop-filter: blur(3.17221px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 12.6888px;
+
+
+/* Gallery */
+
+position: absolute;
+width: 72px;
+height: 14px;
+left: calc(50% - 72px/2 - 132.71px);
+top: 22.21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 0px;
+/* or 0% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Group 1410084212 */
+
+width: 147.51px;
+height: 60.27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 3463723 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 147.51px;
+height: 60.27px;
+left: 331.02px;
+top: 0px;
+
+background: rgba(217, 217, 217, 0.09);
+border: 1.5861px solid #FFFFFF;
+backdrop-filter: blur(3.17221px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 12.6888px;
+
+
+/* Videos */
+
+position: absolute;
+width: 69px;
+height: 14px;
+left: calc(50% - 69px/2 + 33.3px);
+top: 22.21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 0px;
+/* or 0% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Group 1410084211 */
+
+width: 248px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Rectangle 3463723 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 248px;
+height: 60px;
+left: 496.52px;
+top: 0.14px;
+
+background: rgba(217, 217, 217, 0.09);
+border: 1.5861px solid #FFFFFF;
+backdrop-filter: blur(3.17221px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 12.6888px;
+
+
+/* Vendor Connections */
+
+position: absolute;
+width: 207px;
+height: 14px;
+left: calc(50% - 207px/2 + 248.31px);
+top: 22.34px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 0px;
+/* or 0% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 3463734 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1240px;
+height: 425px;
+left: 100px;
+top: 129px;
+
+background: rgba(255, 255, 255, 0.65);
+border: 1px dashed #FFA63A;
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 20px;
+
+
+/* Group 1410084330 */
+
+position: absolute;
+width: 168px;
+height: 168px;
+left: calc(50% - 168px/2);
+top: 455px;
+
+
+
+/* Ellipse 3474 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 168px;
+height: 168px;
+left: calc(50% - 168px/2);
+top: 455px;
+
+background: #FFA63A;
+border: 3px solid #FFFFFF;
+
+
+/* upload-03 */
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 686px;
+top: 503px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 5.83333px solid #FFFFFF;
+
+
+/* Event planner name */
+
+position: absolute;
+width: 329px;
+left: calc(50% - 329px/2 - 0.5px);
+top: 49.92%;
+bottom: 48.36%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 41px;
+/* or 129% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Event Planner based in Bengaluru, Karnataka */
+
+position: absolute;
+left: 36.88%;
+right: 37.68%;
+top: 52.95%;
+bottom: 46.2%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+/* or 172% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Frame 1410085064 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8.27px;
+
+position: absolute;
+left: 38.69%;
+right: 39.51%;
+top: 54.8%;
+bottom: 42.83%;
+
+
+
+/* Group 1410084211 */
+
+width: 132.36px;
+height: 30.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 3463723 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 132.36px;
+height: 30.33px;
+left: 0px;
+top: 0px;
+
+background: rgba(144, 131, 131, 0.17);
+border: 0.764617px solid #4E5257;
+backdrop-filter: blur(1.52923px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 6.89394px;
+
+
+/* O Event Albums */
+
+position: absolute;
+width: 111px;
+height: 10px;
+left: 11.61px;
+top: 10.45px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 0px;
+/* or 0% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #4E5257;
+
+
+
+/* Group 1410084251 */
+
+width: 172.35px;
+height: 30.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 3463723 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 172.35px;
+height: 30.33px;
+left: 140.64px;
+top: 0px;
+
+background: rgba(144, 131, 131, 0.17);
+border: 0.764617px solid #4E5257;
+backdrop-filter: blur(1.52923px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 6.89394px;
+
+
+/* Full-Service Planning */
+
+position: absolute;
+width: 149px;
+height: 10px;
+left: 152.25px;
+top: 10.45px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 0px;
+/* or 0% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #4E5257;
+
+
+
+/* Frame 1410085066 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6.35px;
+
+position: absolute;
+width: 424.27px;
+height: 94px;
+left: calc(50% - 424.27px/2 + 0.14px);
+top: 755px;
+
+
+
+/* Group 1410084270 */
+
+width: 137.19px;
+height: 94px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Event Albums */
+
+position: absolute;
+left: 4.08%;
+right: 73.76%;
+top: 65.8%;
+bottom: 23.56%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 25px;
+/* or 177% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* 15 */
+
+position: absolute;
+left: 4.08%;
+right: 90.03%;
+top: 28.63%;
+bottom: 53.29%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 25px;
+/* or 103% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Rectangle 3463735 */
+
+position: absolute;
+width: 137.19px;
+height: 94px;
+left: 0px;
+top: 0px;
+
+border: 1.23704px solid rgba(0, 0, 0, 0.07);
+border-radius: 11.1333px;
+
+
+/* Group 1410084269 */
+
+width: 137.19px;
+height: 94px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Photos */
+
+position: absolute;
+left: 37.91%;
+right: 51.01%;
+top: 65.8%;
+bottom: 23.56%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 25px;
+/* or 177% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* 18 */
+
+position: absolute;
+left: 37.91%;
+right: 56.19%;
+top: 28.63%;
+bottom: 53.29%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 25px;
+/* or 103% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Rectangle 3463735 */
+
+position: absolute;
+width: 137.19px;
+height: 94px;
+left: 143.54px;
+top: 0px;
+
+border: 1.23704px solid rgba(0, 0, 0, 0.07);
+border-radius: 11.1333px;
+
+
+/* Group 1410084268 */
+
+width: 137.19px;
+height: 94px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Years in Business */
+
+position: absolute;
+height: 24px;
+left: 71.89%;
+right: 9.26%;
+top: calc(50% - 24px/2 + 20px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 14px;
+/* or 100% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* 10 */
+
+position: absolute;
+left: 71.75%;
+right: 22.36%;
+top: 28.63%;
+bottom: 53.29%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 25px;
+/* or 103% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Rectangle 3463735 */
+
+position: absolute;
+width: 137.19px;
+height: 94px;
+left: 287.08px;
+top: 0px;
+
+border: 1.23704px solid rgba(0, 0, 0, 0.07);
+border-radius: 11.1333px;
+
+
+/* Group 1410084250 */
+
+position: absolute;
+width: 335px;
+height: 51px;
+left: calc(50% - 335px/2 - 0.5px);
+top: 870px;
+
+
+
+/* Rectangle 3463712 */
+
+position: absolute;
+width: 335px;
+height: 51px;
+left: calc(50% - 335px/2 - 0.5px);
+top: 870px;
+
+background: #FFA63A;
+border-radius: 25.5px;
+
+
+/* REQUEST INFO */
+
+position: absolute;
+width: 95px;
+height: 20px;
+left: calc(50% - 95px/2 - 0.5px);
+top: calc(50% - 20px/2 + 253px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Group 1410084318 */
+
+position: absolute;
+width: 793px;
+height: 509px;
+left: calc(50% - 793px/2 - 0.5px);
+top: 1137px;
+
+
+
+/* Frame 1410085068 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 336px;
+height: 64px;
+left: 323px;
+top: 1137px;
+
+
+
+/* About Event planner name */
+
+width: 351px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+text-transform: uppercase;
+
+color: #C3C3C3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* No Information Yet */
+
+width: 793px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 793px;
+height: 0px;
+left: 323px;
+top: 1364px;
+
+border: 1px solid #817F7F;
+
+
+/* Frame 1410085067 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 146px;
+height: 49px;
+left: 323px;
+top: 1383px;
+
+
+
+/* Services */
+
+width: 146px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height, or 100% */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Full-Service Planning */
+
+width: 167px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 793px;
+height: 0px;
+left: 323px;
+top: 1451px;
+
+border: 1px solid #817F7F;
+
+
+/* Frame 1410085069 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 335px;
+height: 69px;
+left: 323px;
+top: 1470px;
+
+
+
+/* Pricing */
+
+width: 82px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height, or 100% */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lion King has not provided any pricing information. Please contact them directly to receive a pricing proposal for your event. */
+
+width: 617px;
+height: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 4 */
+
+position: absolute;
+width: 793px;
+height: 0px;
+left: 323px;
+top: 1558px;
+
+border: 1px solid #817F7F;
+
+
+/* Frame 1410085070 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 335px;
+height: 69px;
+left: 323px;
+top: 1577px;
+
+
+
+/* connect */
+
+width: 335px;
+height: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 20px;
+/* identical to box height, or 100% */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1410085071 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: flex-start;
+align-content: flex-start;
+padding: 0px;
+gap: 15px 32px;
+
+width: 757px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 1410084252 */
+
+width: 185px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 3463712 */
+
+position: absolute;
+left: 0%;
+right: 75.56%;
+top: 0%;
+bottom: 0%;
+
+background: #FFA63A;
+border-radius: 19px;
+
+
+/* GET CUSTOM QUOTE */
+
+position: absolute;
+width: 139px;
+height: 20px;
+left: calc(50% - 139px/2 - 286px);
+top: calc(50% - 20px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Group 1410084253 */
+
+width: 117px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 3463712 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 28.67%;
+right: 55.88%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #FFA63A;
+border-radius: 19px;
+
+
+/* Call */
+
+position: absolute;
+width: 33px;
+height: 20px;
+left: calc(50% - 33px/2 - 90px);
+top: calc(50% - 20px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* ant-design:phone-filled */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 260px;
+top: 8px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 90.23%;
+right: -70.7%;
+top: 9.77%;
+bottom: 9.77%;
+
+background: #FFA63A;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Group 1410084254 */
+
+width: 132px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 3463712 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 48.35%;
+right: 34.21%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #FFA63A;
+border-radius: 19px;
+
+
+/* Website */
+
+position: absolute;
+width: 56px;
+height: 20px;
+left: calc(50% - 56px/2 + 67.5px);
+top: calc(50% - 20px/2);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* ant-design:phone-filled */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 407px;
+top: 8px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* streamline:web-solid */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: calc(50% - 17px/2 + 0.5px);
+top: calc(50% - 17px/2 - 0.5px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.2%;
+right: 0.2%;
+top: 0%;
+bottom: 0%;
+
+background: #FFA63A;
+
+
+/* Frame 2007 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 17px;
+
+width: 187px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 85 */
+
+width: 34px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 166, 58, 0.21);
+border-radius: 60px;
+
+
+/* facebook logo */
+
+position: absolute;
+width: 7px;
+height: 14px;
+left: 13px;
+top: 10px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFA63A;
+
+
+/* Group 86 */
+
+width: 34px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 51px;
+top: 0px;
+
+background: rgba(255, 166, 58, 0.21);
+border-radius: 60px;
+
+
+/* Twitter logo */
+
+position: absolute;
+width: 18px;
+height: 14px;
+left: 59px;
+top: 10px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.39%;
+bottom: 0.07%;
+
+background: #FFA63A;
+
+
+/* Group 87 */
+
+width: 34px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 102px;
+top: 0px;
+
+background: rgba(255, 166, 58, 0.21);
+border-radius: 60px;
+
+
+/* linkedin logo */
+
+position: absolute;
+width: 16px;
+height: 15px;
+left: 111px;
+top: 9px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: -0.02%;
+top: 0%;
+bottom: 0%;
+
+background: #FFA63A;
+
+
+/* Group 88 */
+
+width: 34px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 153px;
+top: 0px;
+
+background: rgba(255, 166, 58, 0.21);
+border-radius: 60px;
+
+
+/* instagram logo */
+
+position: absolute;
+width: 16px;
+height: 18px;
+left: 162px;
+top: 8px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -0.02%;
+right: -0.03%;
+top: 6.22%;
+bottom: 6.25%;
+
+background: #FFA63A;
+
+
+/* Frame 1410085125 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 5px;
+
+position: absolute;
+width: 1861px;
+height: 322px;
+left: calc(50% - 1861px/2 - 0.5px);
+top: 1886.77px;
+
+
+
+/* Group 1410084304 */
+
+width: 306px;
+height: 322px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 3463716 */
+
+position: absolute;
+width: 306px;
+height: 322px;
+left: 0px;
+top: 0px;
+
+background: url(image), url(image.png);
+border-radius: 24.6686px;
+
+
+/* Group 1410084305 */
+
+width: 306px;
+height: 322px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 3463717 */
+
+position: absolute;
+width: 306px;
+height: 322px;
+left: 311px;
+top: 0px;
+
+background: url(image);
+border-radius: 24.6686px;
+
+
+/* Group 1410084307 */
+
+width: 306px;
+height: 322px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 3463716 */
+
+position: absolute;
+width: 306px;
+height: 322px;
+left: 622px;
+top: 0px;
+
+background: url(image);
+border-radius: 24.6686px;
+
+
+/* Group 1410084303 */
+
+width: 306px;
+height: 322px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Rectangle 3463718 */
+
+position: absolute;
+width: 306px;
+height: 322px;
+left: 933px;
+top: 0px;
+
+background: url(image);
+border-radius: 24.6686px;
+
+
+/* Group 1410084306 */
+
+width: 306px;
+height: 322px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Rectangle 3463718 */
+
+position: absolute;
+width: 306px;
+height: 322px;
+left: 1244px;
+top: 0px;
+
+background: url(image.png);
+border-radius: 24.6686px;
+
+
+/* Group 1410084308 */
+
+width: 306px;
+height: 322px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Rectangle 3463716 */
+
+position: absolute;
+width: 306px;
+height: 322px;
+left: 1555px;
+top: 0px;
+
+background: url(image.png);
+border-radius: 24.6686px;
+
+
+/* Group 1410084039 */
+
+position: absolute;
+width: 262px;
+height: 81.5px;
+left: calc(50% - 262px/2);
+top: 1759px;
+
+
+
+/* Group 1410084027 */
+
+position: absolute;
+width: 262px;
+height: 81.5px;
+left: calc(50% - 262px/2);
+top: 1759px;
+
+
+
+/* Title - Event-Ready Trends Makeup for Every Occasion */
+
+position: absolute;
+width: 163px;
+height: 28px;
+left: calc(50% - 163px/2 + 0.21px);
+top: 1759px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 38px;
+/* or 95% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #D4D4D4;
+
+
+
+/* Title - Event-Ready Trends Makeup for Every Occasion */
+
+position: absolute;
+width: 262px;
+height: 36px;
+left: calc(50% - 262px/2);
+top: 1804.5px;
+
+font-family: 'Rozha One';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 38px;
+/* or 59% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Group 1410084319 */
+
+position: absolute;
+width: 211px;
+height: 81.5px;
+left: calc(50% - 211px/2 + 0.5px);
+top: 2304px;
+
+
+
+/* Group 1410084027 */
+
+position: absolute;
+width: 211px;
+height: 81.5px;
+left: calc(50% - 211px/2 + 0.5px);
+top: 2304px;
+
+
+
+/* Title - Event-Ready Trends Makeup for Every Occasion */
+
+position: absolute;
+width: 163px;
+height: 28px;
+left: calc(50% - 163px/2 + 0.21px);
+top: 2304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 38px;
+/* or 95% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #D4D4D4;
+
+
+
+/* Title - Event-Ready Trends Makeup for Every Occasion */
+
+position: absolute;
+width: 211px;
+height: 36px;
+left: calc(50% - 211px/2 + 0.5px);
+top: 2349.5px;
+
+font-family: 'Rozha One';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 38px;
+/* or 59% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Frame 1410085074 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 1239px;
+height: 393.28px;
+left: calc(50% - 1239px/2 - 0.5px);
+top: 2420px;
+
+
+
+/* Group 1410084223 */
+
+width: 407px;
+height: 393px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Star 19 */
+
+position: absolute;
+width: 19.66px;
+height: 19.66px;
+left: 9.34px;
+top: 319.97px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Rectangle 3463729 */
+
+position: absolute;
+width: 407px;
+height: 393px;
+left: 0px;
+top: 0.14px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 39.22%, rgba(0, 0, 0, 0.5) 84.59%), url(image.png), url(image.png);
+border-radius: 25.4478px;
+
+
+/* Group 1410084271 */
+
+position: absolute;
+width: 299px;
+height: 206.81px;
+left: 22.67px;
+top: 171.34px;
+
+
+
+/* video icon */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: calc(50% - 50px/2 - 427.1px);
+top: calc(50% - 50px/2 - 0.31px);
+
+
+
+/* Group 1410084125 */
+
+position: absolute;
+width: 50.9px;
+height: 50.9px;
+left: 0px;
+top: 0px;
+
+
+
+/* Ellipse 789 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 50.9px;
+height: 50.9px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.12);
+border: 1.15672px solid #FFFFFF;
+backdrop-filter: blur(2.31343px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Vector */
+
+position: absolute;
+width: 16.39px;
+height: 16.39px;
+left: calc(50% - 16.39px/2 + 16.84px);
+top: calc(50% - 16.39px/2 + 0.45px);
+
+background: #FFFFFF;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Event Name */
+
+position: absolute;
+width: 147px;
+height: 17px;
+left: calc(50% - 147px/2 - 523.19px);
+top: 315.35px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 59px;
+/* or 246% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Expert wedding planners crafting your perfect day. */
+
+position: absolute;
+width: 299px;
+height: 40px;
+left: calc(50% - 299px/2 - 447.33px);
+top: 338.14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* or 123% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 1410084228 */
+
+width: 407px;
+height: 393.28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Star 19 */
+
+position: absolute;
+width: 19.66px;
+height: 19.66px;
+left: 435.66px;
+top: 319.83px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Rectangle 3463729 */
+
+position: absolute;
+width: 407px;
+height: 393.28px;
+left: 416px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 39.22%, rgba(0, 0, 0, 0.5) 84.59%), url(image);
+border-radius: 25.4478px;
+
+
+/* Group 1410084271 */
+
+position: absolute;
+width: 299px;
+height: 206.81px;
+left: 439.17px;
+top: 171.19px;
+
+
+
+/* video icon */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: calc(50% - 50px/2 - 10.6px);
+top: calc(50% - 50px/2 - 0.45px);
+
+
+
+/* Group 1410084125 */
+
+position: absolute;
+width: 50.9px;
+height: 50.9px;
+left: 0px;
+top: 0px;
+
+
+
+/* Ellipse 789 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 50.9px;
+height: 50.9px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.12);
+border: 1.15672px solid #FFFFFF;
+backdrop-filter: blur(2.31343px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Vector */
+
+position: absolute;
+width: 16.39px;
+height: 16.39px;
+left: calc(50% - 16.39px/2 + 16.84px);
+top: calc(50% - 16.39px/2 + 0.45px);
+
+background: #FFFFFF;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Event Name */
+
+position: absolute;
+width: 147px;
+height: 17px;
+left: calc(50% - 147px/2 - 106.69px);
+top: 315.21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 59px;
+/* or 246% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Expert wedding planners crafting your perfect day. */
+
+position: absolute;
+width: 299px;
+height: 40px;
+left: calc(50% - 299px/2 - 30.83px);
+top: 338px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* or 123% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 1410084229 */
+
+width: 407px;
+height: 393.28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Star 19 */
+
+position: absolute;
+width: 19.66px;
+height: 19.66px;
+left: 851.66px;
+top: 319.83px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Rectangle 3463729 */
+
+position: absolute;
+width: 407px;
+height: 393.28px;
+left: 832px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 39.22%, rgba(0, 0, 0, 0.5) 84.59%), url(image.png), url(image.png);
+border-radius: 25.4478px;
+
+
+/* Group 1410084271 */
+
+position: absolute;
+width: 299px;
+height: 206.81px;
+left: 855.34px;
+top: 171.19px;
+
+
+
+/* video icon */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: calc(50% - 50px/2 + 405.57px);
+top: calc(50% - 50px/2 - 0.45px);
+
+
+
+/* Group 1410084125 */
+
+position: absolute;
+width: 50.9px;
+height: 50.9px;
+left: 0px;
+top: 0px;
+
+
+
+/* Ellipse 789 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 50.9px;
+height: 50.9px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.12);
+border: 1.15672px solid #FFFFFF;
+backdrop-filter: blur(2.31343px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Vector */
+
+position: absolute;
+width: 16.39px;
+height: 16.39px;
+left: calc(50% - 16.39px/2 + 16.84px);
+top: calc(50% - 16.39px/2 + 0.45px);
+
+background: #FFFFFF;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Event Name */
+
+position: absolute;
+width: 147px;
+height: 17px;
+left: calc(50% - 147px/2 + 309.48px);
+top: 315.21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 59px;
+/* or 246% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Expert wedding planners crafting your perfect day. */
+
+position: absolute;
+width: 299px;
+height: 40px;
+left: calc(50% - 299px/2 + 385.34px);
+top: 338px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* or 123% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Ellipse 3477 */
+
+position: absolute;
+width: 492px;
+height: 492px;
+left: 1153px;
+top: 3045px;
+
+background: rgba(255, 166, 58, 0.16);
+filter: blur(50px);
+
+
+/* Group 1410084272 */
+
+position: absolute;
+width: 1237px;
+height: 280px;
+left: 103px;
+top: 2903px;
+
+
+
+/* Group 1410084320 */
+
+position: absolute;
+width: 1237px;
+height: 280px;
+left: 103px;
+top: 2903px;
+
+
+
+/* Rectangle 3463736 */
+
+position: absolute;
+width: 1237px;
+height: 280px;
+left: calc(50% - 1237px/2 + 1.5px);
+top: 2903px;
+
+background: rgba(53, 49, 49, 0.48);
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 50px;
+
+
+/* Frame 1410085126 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 828px;
+height: 155px;
+left: 221px;
+top: 2965px;
+
+
+
+/* Event Vendor & Venue Partners */
+
+width: 828px;
+height: 35px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 35px;
+/* identical to box height, or 109% */
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Unfortunately, no other event vendors or venues have been credited in events on this profile yet. Want to see who works with Joyful Knots Events? Click the link below to ask them about venues and event vendors they've worked with. Request info from Lion King luxurious */
+
+width: 828px;
+height: 108px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+/* or 134% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group 1410084323 */
+
+position: absolute;
+width: 654px;
+height: 602.55px;
+left: calc(50% - 654px/2);
+top: 3370px;
+
+
+
+/* Group 1410084298 */
+
+position: absolute;
+width: 654px;
+height: 464px;
+left: calc(50% - 654px/2);
+top: 3508.55px;
+
+
+
+/* Rectangle 3463699 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 509px;
+height: 304px;
+left: 465px;
+top: 3508.55px;
+
+background: url(image);
+border: 0.931375px solid rgba(255, 255, 255, 0.64);
+filter: drop-shadow(0px 3.7255px 16.3922px rgba(0, 0, 0, 0.07));
+border-radius: 30px;
+
+
+/* Rectangle 3463700 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 582px;
+height: 324px;
+left: 429px;
+top: 3531.55px;
+
+background: url(image.png);
+border: 1px solid rgba(255, 255, 255, 0.64);
+box-shadow: 0px 3.7255px 16.3922px rgba(0, 0, 0, 0.07);
+border-radius: 20px;
+
+
+/* Rectangle 3463698 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 654px;
+height: 420px;
+left: 393px;
+top: 3552.55px;
+
+background: url(image);
+border: 1px solid rgba(255, 255, 255, 0.64);
+filter: drop-shadow(0px 3.7255px 19.5589px rgba(0, 0, 0, 0.11));
+border-radius: 30px;
+
+
+/* Rectangle 3463703 */
+
+position: absolute;
+width: 654px;
+height: 105px;
+left: 393px;
+top: 3867.55px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
+filter: drop-shadow(0px 3.7255px 19.5589px rgba(0, 0, 0, 0.11));
+border-radius: 30px;
+
+
+/* Group 1410084208 */
+
+position: absolute;
+width: 49.86px;
+height: 49.86px;
+left: 980.4px;
+top: 3569.55px;
+
+
+
+/* Ellipse 3465 */
+
+position: absolute;
+width: 49.86px;
+height: 49.86px;
+left: 980.4px;
+top: 3569.55px;
+
+background: rgba(0, 0, 0, 0.65);
+backdrop-filter: blur(2.46893px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Icon */
+
+position: absolute;
+width: 28.85px;
+height: 24.64px;
+left: 991.66px;
+top: 3584.02px;
+
+border: 1.14975px solid #FFFFFF;
+
+
+/* Hilton Motif Seattle */
+
+position: absolute;
+width: 234px;
+height: 20px;
+left: calc(50% - 234px/2 - 186px);
+top: 3928.55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 20px;
+/* identical to box height, or 83% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 1410084322 */
+
+position: absolute;
+width: 334.62px;
+height: 138.39px;
+left: calc(50% - 334.62px/2 + 32.31px);
+top: 3370px;
+
+
+
+/* Group 1410084027 */
+
+position: absolute;
+width: 269px;
+height: 81.5px;
+left: calc(50% - 269px/2 - 0.5px);
+top: 3370px;
+
+
+
+/* Title - Event-Ready Trends Makeup for Every Occasion */
+
+position: absolute;
+width: 190px;
+height: 28px;
+left: calc(50% - 190px/2 - 1.29px);
+top: 3370px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 38px;
+/* or 95% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #7E7E7E;
+
+
+
+/* Title - Event-Ready Trends Makeup for Every Occasion */
+
+position: absolute;
+width: 269px;
+height: 36px;
+left: calc(50% - 269px/2 - 0.5px);
+top: 3415.5px;
+
+font-family: 'Rozha One';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 38px;
+/* or 59% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #0C0E0B;
+
+
+
+/* Group 1410084032 */
+
+position: absolute;
+width: 133.94px;
+height: 66.57px;
+left: 778px;
+top: 3442.42px;
+
+transform: rotate(-7.67deg);
+
+
+/* Group 1410084025 */
+
+position: absolute;
+width: 128.68px;
+height: 51.49px;
+left: 780.06px;
+top: 3457.73px;
+
+transform: rotate(-14.56deg);
+
+
+/* Rectangle 41180 */
+
+position: absolute;
+width: 128.68px;
+height: 51.49px;
+left: 780.06px;
+top: 3457.73px;
+
+background: #FFA63A;
+border-radius: 7.58288px;
+transform: rotate(-14.56deg);
+
+
+/* Title - Event-Ready Trends Makeup for Every Occasion */
+
+position: absolute;
+width: 76px;
+height: 30px;
+left: calc(50% - 76px/2 + 126.12px);
+top: 3460.33px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 149% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.02em;
+text-transform: capitalize;
+
+color: #000000;
+
+transform: rotate(-14.56deg);
+
+
+/* Frame 1410085122 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 11px;
+
+position: absolute;
+width: 131px;
+height: 38px;
+left: calc(50% - 131px/2 - 0.5px);
+top: 4007.55px;
+
+
+
+/* Group 1410084263 */
+
+width: 60px;
+height: 38px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 3463733 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 60px;
+height: 38px;
+left: 0px;
+top: 0px;
+
+background: rgba(0, 0, 0, 0.04);
+border: 1px solid rgba(0, 0, 0, 0.21);
+border-radius: 19px;
+
+
+/* Icon */
+
+position: absolute;
+width: 33px;
+height: 14px;
+left: 14px;
+top: 12px;
+
+border: 1.25px solid #000000;
+
+
+/* Group 1410084264 */
+
+width: 60px;
+height: 38px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 3463733 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 60px;
+height: 38px;
+left: 71px;
+top: 0px;
+
+background: rgba(0, 0, 0, 0.04);
+border: 1px solid rgba(0, 0, 0, 0.21);
+border-radius: 19px;
+
+
+/* Icon */
+
+position: absolute;
+width: 33px;
+height: 14px;
+left: calc(50% - 33px/2 + 68px);
+top: 26px;
+
+border: 1.25px solid #000000;
+transform: rotate(-180deg);
+
+
+/* Group 1410084304 */
+
+position: absolute;
+width: 294px;
+height: 81.5px;
+left: calc(50% - 294px/2);
+top: 4167px;
+
+
+
+/* Group 1410084027 */
+
+position: absolute;
+width: 294px;
+height: 81.5px;
+left: calc(50% - 294px/2);
+top: 4167px;
+
+
+
+/* Title - Event-Ready Trends Makeup for Every Occasion */
+
+position: absolute;
+width: 178px;
+height: 28px;
+left: calc(50% - 178px/2);
+top: 4167px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 38px;
+/* or 95% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #7E7E7E;
+
+
+
+/* Title - Event-Ready Trends Makeup for Every Occasion */
+
+position: absolute;
+width: 294px;
+height: 36px;
+left: calc(50% - 294px/2);
+top: 4212.5px;
+
+font-family: 'Rozha One';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 38px;
+/* or 59% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #0C0E0B;
+
+
+
+/* Ellipse 3479 */
+
+position: absolute;
+width: 528px;
+height: 528px;
+left: 1013px;
+top: 4149px;
+
+background: rgba(255, 166, 58, 0.28);
+filter: blur(50px);
+
+
+/* Frame 1410085126 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 9px;
+
+position: absolute;
+width: 1239px;
+height: 418.28px;
+left: calc(50% - 1239px/2 - 0.5px);
+top: 4279px;
+
+
+
+/* Group 1410084228 */
+
+width: 407px;
+height: 418.28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Star 19 */
+
+position: absolute;
+width: 19.66px;
+height: 19.66px;
+left: 19.66px;
+top: 344.83px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Rectangle 3463729 */
+
+position: absolute;
+width: 407px;
+height: 393.28px;
+left: 0px;
+top: 25px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 39.22%, rgba(0, 0, 0, 0.5) 84.59%), url(image);
+border-radius: 25.4478px;
+
+
+/* Ellipse 3475 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 306px;
+top: 0px;
+
+background: url(image.png);
+border: 3px solid #FFFFFF;
+
+
+/* Group 1410084271 */
+
+position: absolute;
+width: 361px;
+height: 49.17px;
+left: calc(50% - 361px/2 - 416px);
+top: 349px;
+
+
+
+/* Group 1410084324 */
+
+position: absolute;
+width: 361px;
+height: 49.17px;
+left: calc(50% - 361px/2 - 416px);
+top: 349px;
+
+
+
+/* Hilton Motif Seattle */
+
+position: absolute;
+width: 192px;
+height: 14px;
+left: calc(50% - 192px/2 - 500.5px);
+top: 355.2px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 61px;
+/* or 306% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Expert wedding planners */
+
+position: absolute;
+width: 242.27px;
+height: 18px;
+left: calc(50% - 242.27px/2 - 475.37px);
+top: 376.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 1410084198 */
+
+position: absolute;
+width: 134.33px;
+height: 49.17px;
+left: calc(50% - 134.33px/2 - 302.66px);
+top: 349px;
+
+
+
+/* Rectangle 3463712 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 134.33px;
+height: 49.17px;
+left: calc(50% - 134.33px/2 - 302.66px);
+top: 349px;
+
+background: rgba(30, 30, 30, 0.39);
+border: 1.19934px solid #FFFFFF;
+backdrop-filter: blur(2.39867px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 29.9834px;
+
+
+/* Know More */
+
+position: absolute;
+width: 98px;
+height: 24px;
+left: 266.07px;
+top: 360.99px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Group 1410084230 */
+
+width: 407px;
+height: 418.28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Star 19 */
+
+position: absolute;
+width: 19.66px;
+height: 19.66px;
+left: 435.66px;
+top: 344.83px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Rectangle 3463729 */
+
+position: absolute;
+width: 407px;
+height: 393.28px;
+left: 416px;
+top: 25px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 39.22%, rgba(0, 0, 0, 0.5) 84.59%), url(image);
+border-radius: 25.4478px;
+
+
+/* Ellipse 3475 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 722px;
+top: 0px;
+
+background: url(image.png);
+border: 3px solid #FFFFFF;
+
+
+/* Group 1410084271 */
+
+position: absolute;
+width: 361px;
+height: 49.17px;
+left: calc(50% - 361px/2);
+top: 349px;
+
+
+
+/* Group 1410084324 */
+
+position: absolute;
+width: 361px;
+height: 49.17px;
+left: calc(50% - 361px/2);
+top: 349px;
+
+
+
+/* Hilton Motif Seattle */
+
+position: absolute;
+width: 192px;
+height: 14px;
+left: calc(50% - 192px/2 - 84.5px);
+top: 355.2px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 61px;
+/* or 306% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Expert wedding planners */
+
+position: absolute;
+width: 242.27px;
+height: 18px;
+left: calc(50% - 242.27px/2 - 59.37px);
+top: 376.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 1410084198 */
+
+position: absolute;
+width: 134.33px;
+height: 49.17px;
+left: calc(50% - 134.33px/2 + 113.34px);
+top: 349px;
+
+
+
+/* Rectangle 3463712 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 134.33px;
+height: 49.17px;
+left: calc(50% - 134.33px/2 + 113.34px);
+top: 349px;
+
+background: rgba(30, 30, 30, 0.39);
+border: 1.19934px solid #FFFFFF;
+backdrop-filter: blur(2.39867px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 29.9834px;
+
+
+/* Know More */
+
+position: absolute;
+width: 98px;
+height: 24px;
+left: 682.07px;
+top: 360.99px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Group 1410084231 */
+
+width: 407px;
+height: 418.28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Star 19 */
+
+position: absolute;
+width: 19.66px;
+height: 19.66px;
+left: 851.66px;
+top: 344.83px;
+
+background: rgba(255, 166, 58, 0.79);
+
+
+/* Rectangle 3463729 */
+
+position: absolute;
+width: 407px;
+height: 393.28px;
+left: 832px;
+top: 25px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 39.22%, rgba(0, 0, 0, 0.5) 84.59%), url(image), url(image);
+border-radius: 25.4478px;
+
+
+/* Ellipse 3475 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 70px;
+left: 1138px;
+top: 0px;
+
+background: url(image);
+border: 3px solid #FFFFFF;
+
+
+/* Group 1410084271 */
+
+position: absolute;
+width: 361px;
+height: 49.17px;
+left: calc(50% - 361px/2 + 416px);
+top: 349px;
+
+
+
+/* Group 1410084324 */
+
+position: absolute;
+width: 361px;
+height: 49.17px;
+left: calc(50% - 361px/2 + 416px);
+top: 349px;
+
+
+
+/* Hilton Motif Seattle */
+
+position: absolute;
+width: 192px;
+height: 14px;
+left: calc(50% - 192px/2 + 331.5px);
+top: 355.2px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 61px;
+/* or 306% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Expert wedding planners */
+
+position: absolute;
+width: 242.27px;
+height: 18px;
+left: calc(50% - 242.27px/2 + 356.63px);
+top: 376.58px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 1410084198 */
+
+position: absolute;
+width: 134.33px;
+height: 49.17px;
+left: calc(50% - 134.33px/2 + 529.34px);
+top: 349px;
+
+
+
+/* Rectangle 3463712 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 134.33px;
+height: 49.17px;
+left: calc(50% - 134.33px/2 + 529.34px);
+top: 349px;
+
+background: rgba(30, 30, 30, 0.39);
+border: 1.19934px solid #FFFFFF;
+backdrop-filter: blur(2.39867px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 29.9834px;
+
+
+/* Know More */
+
+position: absolute;
+width: 98px;
+height: 24px;
+left: 1098.07px;
+top: 360.99px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Frame 1410085127 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 11px;
+
+position: absolute;
+width: 131px;
+height: 38px;
+left: 1212px;
+top: 4727px;
+
+
+
+/* Group 1410084263 */
+
+width: 60px;
+height: 38px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 3463733 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 60px;
+height: 38px;
+left: 0px;
+top: 0px;
+
+background: rgba(0, 0, 0, 0.04);
+border: 1px solid rgba(0, 0, 0, 0.21);
+border-radius: 19px;
+
+
+/* Icon */
+
+position: absolute;
+width: 33px;
+height: 14px;
+left: 14px;
+top: 12px;
+
+border: 1.25px solid #000000;
+
+
+/* Group 1410084264 */
+
+width: 60px;
+height: 38px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 3463733 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 60px;
+height: 38px;
+left: 71px;
+top: 0px;
+
+background: rgba(0, 0, 0, 0.04);
+border: 1px solid rgba(0, 0, 0, 0.21);
+border-radius: 19px;
+
+
+/* Icon */
+
+position: absolute;
+width: 33px;
+height: 14px;
+left: calc(50% - 33px/2 + 68px);
+top: 26px;
+
+border: 1.25px solid #000000;
+transform: rotate(-180deg);
+
+
+/* Group 1410084210 */
+
+position: absolute;
+width: 49.86px;
+height: 49.86px;
+left: 1273px;
+top: 149px;
+
+
+
+/* Ellipse 3465 */
+
+position: absolute;
+width: 49.86px;
+height: 49.86px;
+left: 1273px;
+top: 149px;
+
+background: #E0E0E0;
+backdrop-filter: blur(2.46893px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Icon */
+
+position: absolute;
+width: 28.85px;
+height: 24.64px;
+left: 1284.26px;
+top: 163.48px;
+
+border: 1.14975px solid #FFFFFF;
+
+
+/* Group 1410084274 */
+
+position: absolute;
+width: 290px;
+height: 203.05px;
+left: calc(50% - 290px/2);
+top: 209px;
+
+
+
+/* Click and upload your image */
+
+position: absolute;
+width: 290px;
+height: 30px;
+left: 575px;
+top: 349.68px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+
+color: #000000;
+
+
+
+/* Supports: PNG, JPG, JPEG */
+
+position: absolute;
+width: 196px;
+height: 24px;
+left: calc(50% - 196px/2);
+top: 388.05px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+color: #FFA63A;
+
+
+
+/* Icon/Picture */
+
+position: absolute;
+width: 135.2px;
+height: 116.93px;
+left: calc(50% - 135.2px/2 - 0.4px);
+top: 209px;
+
+
+
+/* Picture */
+
+position: absolute;
+left: -19.3%;
+right: -19.18%;
+top: -29.99%;
+bottom: -30.13%;
+
+
+
+/* Body */
+
+position: absolute;
+width: 116.52px;
+height: 91.55px;
+left: 21.76px;
+top: 44.44px;
+
+background: linear-gradient(109.26deg, rgba(250, 207, 155, 0.92) 27.04%, #FFA63A 97.36%);
+backdrop-filter: blur(8.32291px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 24.9687px;
+transform: rotate(-8deg);
+
+
+/* Body */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 116.52px;
+height: 91.55px;
+left: 50.45px;
+top: 53.33px;
+
+background: #FFDFB8;
+border: 1.82702px solid #FFA63A;
+backdrop-filter: blur(8.32291px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 24.9687px;
+transform: rotate(7.26deg);
+
+
+/* Mask group */
+
+position: absolute;
+width: 117.58px;
+height: 100.28px;
+left: 44.1px;
+top: 53.93px;
+
+
+
+/* Body */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 107.4px;
+height: 87.41px;
+left: 55.14px;
+top: 53.93px;
+
+background: linear-gradient(109.26deg, rgba(250, 207, 155, 0.92) 27.04%, #FFA63A 97.36%);
+border: 1.82702px solid #FFA63A;
+backdrop-filter: blur(8.32291px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 24.9687px;
+transform: rotate(7.26deg);
+
+
+/* Group 1410084273 */
+
+position: absolute;
+width: 114.86px;
+height: 68.53px;
+left: 47.82px;
+top: 74.84px;
+
+transform: rotate(7.49deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 64.32%;
+right: 23.47%;
+top: 45.08%;
+bottom: 42.72%;
+
+background: #FFA63A;
+transform: rotate(7.49deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 13.65%;
+top: 44.1%;
+bottom: 23.46%;
+
+background: #FFA63A;
+border-radius: 1.82702px;
+transform: rotate(7.49deg);
+
+
+/* edit-contained */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1318px;
+top: 567px;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+border: 2px solid #000000;
+
+
+/* EDIT */
+
+position: absolute;
+width: 34px;
+height: 11px;
+left: 1278px;
+top: 578px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 41px;
+/* or 259% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Group 1410084331 */
+
+position: absolute;
+width: 375px;
+height: 607px;
+left: 966px;
+top: 600px;
+
+
+
+/* Rectangle 3463741 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 375px;
+height: 607px;
+left: 966px;
+top: 600px;
+
+background: #FDFCFC;
+border: 1px solid #FFA63A;
+border-radius: 19px;
+
+
+/* Icon */
+
+position: absolute;
+left: 90.69%;
+right: 8.33%;
+top: 48.36%;
+bottom: 50.55%;
+
+border: 1.5px solid #000000;
+
+
+/* Edit Company Profile */
+
+position: absolute;
+width: 230px;
+left: calc(50% - 230px/2 + 400px);
+top: 49.77%;
+bottom: 48.05%;
+
+font-family: 'Rozha One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height, or 117% */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Change Cover Photo Change Brand Image Edit Main Details Edit Pricing Information Add Real Event Add Photo Collection Add FAQs Add Pro Connections Add Videos */
+
+position: absolute;
+left: 69.79%;
+right: 17.08%;
+top: 54.28%;
+bottom: 22.43%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 36px;
+/* or 225% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Add Announcement Add Review Add Press & Recognition Add Team Member */
+
+position: absolute;
+left: 69.79%;
+right: 16.46%;
+top: 79.13%;
+bottom: 11.6%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 36px;
+/* or 225% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+color: #878787;
+
+
+
+/* Frame 1410085086 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+position: absolute;
+width: 19px;
+height: 130px;
+left: 983px;
+top: 1009px;
+
+
+
+/* lock-02 */
+
+width: 19px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 20%;
+right: 20%;
+top: 10%;
+bottom: 10%;
+
+border: 2px solid #878787;
+
+
+/* lock-02 */
+
+width: 19px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 20%;
+right: 20%;
+top: 10%;
+bottom: 10%;
+
+border: 2px solid #878787;
+
+
+/* lock-02 */
+
+width: 19px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 20%;
+right: 20%;
+top: 10%;
+bottom: 10%;
+
+border: 2px solid #878787;
+
+
+/* lock-02 */
+
+width: 19px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+left: 20%;
+right: 20%;
+top: 10%;
+bottom: 10%;
+
+border: 2px solid #878787;
+
+
+/* Rectangle 3463749 */
+
+position: absolute;
+width: 210px;
+height: 26px;
+left: 993px;
+top: 693px;
+
+
+
+/* Rectangle 3463750 */
+
+position: absolute;
+width: 210px;
+height: 26px;
+left: 993px;
+top: 731px;
+
+
+
+/* Rectangle 3463751 */
+
+position: absolute;
+width: 210px;
+height: 26px;
+left: 993px;
+top: 767px;
+
+
+
+/* Rectangle 3463752 */
+
+position: absolute;
+width: 210px;
+height: 26px;
+left: 993px;
+top: 799px;
+
+
+
+/* Rectangle 3463753 */
+
+position: absolute;
+width: 210px;
+height: 26px;
+left: 993px;
+top: 834px;
+
+
+
+/* Rectangle 3463754 */
+
+position: absolute;
+width: 210px;
+height: 26px;
+left: 993px;
+top: 874px;
+
+
+
+/* Rectangle 3463755 */
+
+position: absolute;
+width: 210px;
+height: 26px;
+left: 993px;
+top: 911px;
+
+
+
+/* Rectangle 3463756 */
+
+position: absolute;
+width: 210px;
+height: 26px;
+left: 993px;
+top: 944px;
+
+
+
+/* Rectangle 3463757 */
+
+position: absolute;
+width: 210px;
+height: 26px;
+left: 993px;
+top: 982px;
+

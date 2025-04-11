@@ -9,16 +9,18 @@ import Explore from "@/pages/Explore";
 import Tickets from "@/pages/Tickets";
 import Profile from "@/pages/Profile";
 import PersonalDetails from "@/pages/PersonalDetails";
-import BottomNavigation from "@/components/BottomNavigation";
 
+// These are the routes for the redesigned LetsGala site
 function Router() {
   return (
     <Switch>
       <Route path="/" component={Home} />
-      <Route path="/event-details" component={EventDetails} />
-      <Route path="/explore" component={Explore} />
-      <Route path="/tickets" component={Tickets} />
-      <Route path="/profile" component={Profile} />
+      <Route path="/all-vendors" component={Explore} />
+      <Route path="/weddings" component={EventDetails} />
+      <Route path="/birthdays" component={Tickets} />
+      <Route path="/baby-showers" component={Home} />
+      <Route path="/corporate-events" component={Home} />
+      <Route path="/become-member" component={Profile} />
       <Route path="/personal-details" component={PersonalDetails} />
     </Switch>
   );
@@ -27,9 +29,8 @@ function Router() {
 function App() {
   return (
     <QueryClientProvider client={queryClient}>
-      <div className="font-[Poppins] min-h-screen bg-[#F5F5F5]">
+      <div className="font-[Poppins] min-h-screen">
         <Router />
-        <BottomNavigation />
         <Toaster />
       </div>
     </QueryClientProvider>
