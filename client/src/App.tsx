@@ -10,6 +10,7 @@ import Tickets from "@/pages/Tickets";
 import Profile from "@/pages/Profile";
 import PersonalDetails from "@/pages/PersonalDetails";
 import RequestedClientList from "@/pages/RequestedClientList";
+import NotFound from "@/pages/not-found";
 
 // These are the routes for the redesigned LetsGala site
 function Router() {
@@ -24,6 +25,7 @@ function Router() {
       <Route path="/become-member" component={Profile} />
       <Route path="/personal-details" component={PersonalDetails} />
       <Route path="/client-list" component={RequestedClientList} />
+      <Route component={NotFound} />
     </Switch>
   );
 }
