@@ -9,6 +9,7 @@ import Explore from "@/pages/Explore";
 import Tickets from "@/pages/Tickets";
 import Profile from "@/pages/Profile";
 import PersonalDetails from "@/pages/PersonalDetails";
+import RequestedClientList from "@/pages/RequestedClientList";
 
 // These are the routes for the redesigned LetsGala site
 function Router() {
@@ -22,6 +23,7 @@ function Router() {
       <Route path="/corporate-events" component={Home} />
       <Route path="/become-member" component={Profile} />
       <Route path="/personal-details" component={PersonalDetails} />
+      <Route path="/client-list" component={RequestedClientList} />
     </Switch>
   );
 }
