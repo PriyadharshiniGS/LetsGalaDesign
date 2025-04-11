@@ -5,8 +5,7 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
-// Mock image mapping to ensure we're not generating mock data
-// but using the exact images from the design
+// Image mapping to ensure we're using the exact images from the design
 export const IMAGES = {
   profile: "https://i.imgur.com/6VBx3io.png",
   profileFull: "https://i.imgur.com/WMDNtRZ.jpg",

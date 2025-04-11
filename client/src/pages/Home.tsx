@@ -16,14 +16,14 @@ const Home = () => {
       title: "Music Festival",
       date: "May 20, 2023",
       location: "Convention Center, Chennai",
-      price: "$25"
+      price: "₹250"
     },
     {
       image: IMAGES.events.foodFestival,
       title: "Food Festival",
       date: "June 5, 2023",
       location: "Beach Road, Chennai",
-      price: "$15"
+      price: "₹150"
     }
   ];
 
@@ -33,21 +33,21 @@ const Home = () => {
       title: "Tech Conference",
       date: "May 25, 2023",
       location: "IT Park, Chennai",
-      price: "$40"
+      price: "₹400"
     },
     {
       image: IMAGES.events.artExhibition,
       title: "Art Exhibition",
       date: "June 10, 2023",
       location: "Art Gallery, Chennai",
-      price: "$10"
+      price: "₹100"
     }
   ];
 
   return (
     <div className="pb-16">
       {/* Top Navigation */}
-      <div className="bg-white p-4 flex items-center justify-between">
+      <div className="bg-white p-4 flex items-center justify-between shadow-sm">
         <div className="flex items-center space-x-2">
           <span className="material-icons text-[#6320EE]">place</span>
           <div>
@@ -62,12 +62,12 @@ const Home = () => {
       </div>
 
       {/* Search Bar */}
-      <div className="p-4 bg-white">
+      <div className="p-4 bg-white border-b border-gray-100">
         <div className="relative">
           <input
             type="text"
             placeholder="Search events"
-            className="w-full rounded-full py-2 px-5 bg-[#F5F5F5] text-sm outline-none"
+            className="w-full rounded-full py-2.5 px-5 bg-[#F5F5F5] text-sm outline-none"
           />
           <span className="material-icons absolute right-3 top-1/2 transform -translate-y-1/2 text-[#888888]">
             search
@@ -90,14 +90,14 @@ const Home = () => {
       </div>
 
       {/* Categories */}
-      <div className="bg-white p-4">
+      <div className="bg-white p-4 mt-2">
         <div className="flex justify-between items-center mb-3">
           <h2 className="font-semibold">Categories</h2>
           <span className="text-[#6320EE] text-sm">See All</span>
         </div>
-        <div className="flex space-x-3 overflow-x-auto pb-2">
+        <div className="flex space-x-4 overflow-x-auto pb-2 -mx-1 px-1">
           {categories.map((category) => (
-            <div key={category.name} className="flex flex-col items-center">
+            <div key={category.name} className="flex flex-col items-center flex-shrink-0">
               <div className={`w-14 h-14 rounded-full ${category.bgColor} flex items-center justify-center`}>
                 <span className={`material-icons ${category.textColor}`}>{category.icon}</span>
               </div>
