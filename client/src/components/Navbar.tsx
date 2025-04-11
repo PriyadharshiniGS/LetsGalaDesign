@@ -7,30 +7,28 @@ const Navbar: React.FC = () => {
     <nav className="py-4 px-6 border border-gray-200 rounded-full bg-white shadow-sm mx-auto max-w-5xl my-4">
       <div className="flex items-center justify-between">
         <div className="flex items-center space-x-4">
-          <Link href="/">
-            <a className="cursor-pointer">
-              <LetsGalaLogo />
-            </a>
-          </Link>
+          <div className="cursor-pointer" onClick={() => window.location.href = '/'}>
+            <LetsGalaLogo />
+          </div>
           <div className="hidden md:flex space-x-1">
-            <Link href="/all-vendors">
-              <a className="nav-item">All Vendors</a>
-            </Link>
-            <Link href="/weddings">
-              <a className="nav-item">Weddings</a>
-            </Link>
-            <Link href="/birthdays">
-              <a className="nav-item">Birthdays</a>
-            </Link>
-            <Link href="/baby-showers">
-              <a className="nav-item">Baby Showers</a>
-            </Link>
-            <Link href="/corporate-events">
-              <a className="nav-item">Corporate Events</a>
-            </Link>
-            <Link href="/become-member">
-              <a className="nav-item">Become A Member</a>
-            </Link>
+            <div onClick={() => window.location.href = '/all-vendors'} className="nav-item cursor-pointer">
+              All Vendors
+            </div>
+            <div onClick={() => window.location.href = '/weddings'} className="nav-item cursor-pointer">
+              Weddings
+            </div>
+            <div onClick={() => window.location.href = '/birthdays'} className="nav-item cursor-pointer">
+              Birthdays
+            </div>
+            <div onClick={() => window.location.href = '/baby-showers'} className="nav-item cursor-pointer">
+              Baby Showers
+            </div>
+            <div onClick={() => window.location.href = '/corporate-events'} className="nav-item cursor-pointer">
+              Corporate Events
+            </div>
+            <div onClick={() => window.location.href = '/become-member'} className="nav-item cursor-pointer">
+              Become A Member
+            </div>
           </div>
         </div>
         <div className="flex items-center space-x-4">
